@@ -1,2 +1,2 @@
-# convert-image-to-sketch
+# convert-Image -To -Sketch
 convert image to sketch
